@@ -1,4 +1,2 @@
-# SmashKarts
-
-This is a copy of SmashKarts, It is outdated and will most likely not work.
-I'll update to the latest version in a few days.
+# The SMK
+A fork of a smash-karts github host which ill host on my own link so school computers can run Smash Karts!
